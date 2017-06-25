@@ -1,0 +1,2 @@
+# minesweeperHufsy
+Hufsy coding challenge
