@@ -1,7 +1,6 @@
-# minesweeperHufsy
 Hufsy coding challenge
 
-# Instructions
+#### Instructions
 
 
 Run game by typing into console
