@@ -1,4 +1,4 @@
-Hufsy coding challenge
+Minesweeper 
 
 #### Instructions
 
